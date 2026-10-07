@@ -254,6 +254,10 @@ function openFaceBook() {
   window.open("https://www.facebook.com/share/14mzRptm3sc/?mibextid=wwXIfr", "_blank");
 }
 
+function opengithub() {
+  window.open("https://github.com/Gasseradel", "_blank");
+}
+
 function openInstgram() {
   window.open("https://www.instagram.com/gaser___22?igsi=MWdpaWFwYmdwanNtaw==", "_blank");
 }
